@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **JDTruj2018/JDTruj2018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: jereddt@lanl.gov
 - 😄 Pronouns: he/him/his
 
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JDTruj2018&theme=vue
+![image]({https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JDTruj2018&theme=vue
+})
