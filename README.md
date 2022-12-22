@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: jereddt@lanl.gov
 - 😄 Pronouns: he/him/his
 
-<img src="{https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JDTruj2018&theme=vue}" />
+<img src="{https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={JDTruj2018}&theme=vue}" />
 
-![image]({https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JDTruj2018&theme=vue})
+<img src="{https://github-readme-stats.vercel.app/api?username={JDTruj2018}}" />
