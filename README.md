@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him/his
 
 <p align='center'>
-  <a href="#">< img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JDTruj2018&theme=vue" width="350"></a>
+  <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JDTruj2018&theme=vue" width="350"></a>
 </p>
 
 <p align='center'>
