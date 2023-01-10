@@ -1,4 +1,4 @@
-📫 How to reach me: jereddt@lanl.gov
+📫 How to reach me: jereddt@gmail.com
 
 ### Other profiles:
 
